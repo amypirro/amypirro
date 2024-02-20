@@ -14,19 +14,29 @@ Microservices | Domain-driven design | Monoliths
 
 I'd love to chat with you about a job opportunity on your team, your journey to becoming a software engineer, or your go-to character in Mario Party.
 
-- [Email me](amypirro@gmail.com) at amypirro@gmail.com
+- Email me at amypirro@gmail.com
 - Reach out on [LinkedIn](https://www.linkedin.com/in/amypirro/)
 
 ## Other Interests ✨
 
 💖 Spending time with friends and family
+
 ❓ Trivia
+
 🏃🏻‍♀️ Kickball
+
 🏓 Pickleball
+
 📚 Reading
+
 🎨 Graphic design
+
 🍽️ Trying new restaurants
+
 💐 Flower arranging
+
 🧵 Crafts like macrame, crocheting, and tie-dye
+
 📺 Getting really into a new show or movie
+
 🎢 Spur-of-the-moment adventures
