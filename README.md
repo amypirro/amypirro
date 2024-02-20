@@ -7,7 +7,7 @@ I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohe
 Python | JavaScript | SQL | HTML | CSS | JSON
 React | Bootstrap | Tailwind
 FastAPI | Django | PostgreSQL | RESTful APIs | Pydantic
-Git | Docker | Insomnia | Beekeeper Studio
+Git | Docker | Insomnia | Beekeeper Studio  
 Microservices | Domain-driven design | Monoliths
 
 ## Contact
@@ -20,23 +20,13 @@ I'd love to chat with you about a job opportunity on your team, your journey to 
 ## Other Interests ✨
 
 💖 Spending time with friends and family
-
 ❓ Trivia
-
-🏃🏻‍♀️ Kickball
-
+🏃🏻 Kickball
 🏓 Pickleball
-
 📚 Reading
-
 🎨 Graphic design
-
 🍽️ Trying new restaurants
-
 💐 Flower arranging
-
 🧵 Crafts like macrame, crocheting, and tie-dye
-
 📺 Getting really into a new show or movie
-
 🎢 Spur-of-the-moment adventures
