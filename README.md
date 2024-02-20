@@ -4,10 +4,10 @@ I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohe
 
 ## Technical Skills 👩🏻‍💻
 
-Python | JavaScript | SQL | HTML | CSS | JSON
-React | Bootstrap | Tailwind
-FastAPI | Django | PostgreSQL | RESTful APIs | Pydantic
-Git | Docker | Insomnia | Beekeeper Studio  
+Python | JavaScript | SQL | HTML | CSS | JSON<br>
+React | Bootstrap | Tailwind<br>
+FastAPI | Django | PostgreSQL | RESTful APIs | Pydantic<br>
+Git | Docker | Insomnia | Beekeeper Studio<br>
 Microservices | Domain-driven design | Monoliths
 
 ## Contact
@@ -19,14 +19,14 @@ I'd love to chat with you about a job opportunity on your team, your journey to 
 
 ## Other Interests ✨
 
-💖 Spending time with friends and family
-❓ Trivia
-🏃🏻 Kickball
-🏓 Pickleball
-📚 Reading
-🎨 Graphic design
-🍽️ Trying new restaurants
-💐 Flower arranging
-🧵 Crafts like macrame, crocheting, and tie-dye
-📺 Getting really into a new show or movie
+💖 Spending time with friends and family<br>
+❓ Trivia<br>
+🏃🏻 Kickball<br>
+🏓 Pickleball<br>
+📚 Reading<br>
+🎨 Graphic design<br>
+🍽️ Trying new restaurants<br>
+💐 Flower arranging<br>
+🧵 Crafts like macrame, crocheting, and tie-dye<br>
+📺 Getting really into a new show or movie<br>
 🎢 Spur-of-the-moment adventures
