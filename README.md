@@ -28,5 +28,5 @@ I'd love to chat with you about a job opportunity on your team, your journey to 
 🍽️ Trying new restaurants<br>
 💐 Flower arranging<br>
 🧵 Crafts like macrame, crocheting, and tie-dye<br>
-📺 Getting really into a new show or movie<br>
+📺 Getting really into a new show, movie, or podcast<br>
 🎢 Spur-of-the-moment adventures
