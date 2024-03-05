@@ -8,7 +8,7 @@ I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohe
 
 [Repo](https://gitlab.com/datamaam/potlucky)  |  [Deployed site](https://datamaam.gitlab.io/Potlucky/)
 
-Full-stack development of a single-page web application for potluck planning, designed and implemented collaboratively as a team of four
+A single-page web application for potluck planning, designed and implemented collaboratively as a team of four
 
 React | Tailwind | FastAPI | Pydantic | PostgreSQL | Docker | Python | JavaScript | JSX | React Router
 
