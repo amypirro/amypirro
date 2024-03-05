@@ -11,6 +11,7 @@ Full-stack development of a single-page web application for potluck planning, de
 React | Tailwind | FastAPI | Pydantic | PostgreSQL | Docker | Python | JavaScript | JSX | React Router
 
 [Repo](https://gitlab.com/datamaam/potlucky)
+
 [Deployed](https://datamaam.gitlab.io/Potlucky/)
 
 ### CarCar
