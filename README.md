@@ -2,10 +2,29 @@
 
 I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohesive products with user experience top of mind. I love looking back at the progression of a project, turning what was simply an idea into something tangible and useful, with persistence, collaboration, and an eagerness to learn and continually improve. I truly enjoy investigating code line-by-line to debug, and thrive on that triumphant moment of becoming unstuck.
 
+## Projects
+
+### Potlucky
+
+Full-stack development of a single-page web application for potluck planning, designed and implemented collaboratively as a team of four
+
+React | Tailwind | FastAPI | Pydantic | PostgreSQL | Docker | Python | JavaScript | JSX | React Router
+
+[Repo](https://gitlab.com/datamaam/potlucky)
+[Deployed](https://datamaam.gitlab.io/Potlucky/)
+
+### CarCar
+
+A single-page web application for managing sales and services at a car dealership
+
+[Repo](https://gitlab.com/amypirro/project-beta)
+
+Python | Django | React | JavaScript | JSX | Docker | React Router
+
 ## Technical Skills 👩🏻‍💻
 
 Python | JavaScript | SQL | HTML | CSS | JSON<br>
-React | Bootstrap | Tailwind<br>
+React | Bootstrap | Tailwind | React Router<br>
 FastAPI | Django | PostgreSQL | RESTful APIs | Pydantic<br>
 Git | Docker | Insomnia | Beekeeper Studio<br>
 Microservices | Domain-driven design | Monoliths
