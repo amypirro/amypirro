@@ -2,7 +2,7 @@
 
 I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohesive products with user experience top of mind. I love looking back at the progression of a project, turning what was simply an idea into something tangible and useful, with persistence, collaboration, and an eagerness to learn and continually improve. I truly enjoy investigating code line-by-line to debug, and thrive on that triumphant moment of becoming unstuck.
 
-[Resume](Amy-Pirro-Resume-2024-May.pdf)
+[Resume](https://docs.google.com/document/d/1Wr1bObk32pCDblDPZD6LDrLnV8agWQC7ZSfqs1n4M5Q/edit?usp=sharing)
 
 ## Projects
 
