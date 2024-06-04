@@ -1,6 +1,6 @@
 # Hello 👋 I'm Amy!
 
-I’m a methodical, problem-solving full-stack engineer who enjoys crafting cohesive products with user experience top of mind. I love looking back at the progression of a project, turning what was simply an idea into something tangible and useful, with persistence, collaboration, and an eagerness to learn and continually improve. I truly enjoy investigating code line-by-line to debug, and thrive on that triumphant moment of becoming unstuck.
+I’m a methodical, problem-solving full-stack engineer with a background in graphic design and marketing, with a passion for creating visually appealing and user-centric applications. I enjoy transforming ideas into tangible, useful products through persistence, collaboration, and a continuous eagerness to learn and improve. I thrive on meticulously investigating code line-by-line to debug, savoring the triumphant moments of overcoming challenges and bringing projects to life.
 
 [Resume](https://docs.google.com/document/d/1Wr1bObk32pCDblDPZD6LDrLnV8agWQC7ZSfqs1n4M5Q/edit?usp=sharing)
 
