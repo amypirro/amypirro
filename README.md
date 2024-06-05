@@ -41,6 +41,7 @@ I'd love to chat with you about a job opportunity on your team, your journey to 
 ## Other Interests ✨
 
 💖 Spending time with friends and family<br>
+⚾️ Cheering on the Padres<br>
 ❓ Trivia<br>
 🏃🏻 Kickball<br>
 🏓 Pickleball<br>
