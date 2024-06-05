@@ -8,7 +8,7 @@ I’m a methodical, problem-solving full-stack engineer with a background in gra
 
 ### Potlucky
 
-[Repo](https://gitlab.com/datamaam/potlucky)  |  [Deployed site](https://datamaam.gitlab.io/Potlucky/)
+[Repo](https://gitlab.com/datamaam/potlucky)
 
 A single-page web application for potluck planning, designed and implemented collaboratively as a team of four
 
