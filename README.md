@@ -43,12 +43,13 @@ I'd love to chat about a job opportunity on your team, your journey to becoming 
 💖 Spending time with friends and family<br>
 ⚾️ Cheering on the Padres<br>
 ❓ Trivia<br>
+🧶 Knitting, macrame, and other crafting<br>
+🥎 Softball<br>
 🏃🏻 Kickball<br>
 🏓 Pickleball<br>
 📚 Reading<br>
 🎨 Graphic design<br>
 🍽️ Trying new restaurants<br>
 💐 Flower arranging<br>
-🧵 Crafts like macrame, crocheting, and tie-dye<br>
 📺 Getting really into a new show, movie, or podcast<br>
 🎢 Spur-of-the-moment adventures
