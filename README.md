@@ -2,7 +2,7 @@
 
 I’m a methodical, problem-solving full-stack engineer with a background in graphic design and marketing, with a passion for creating visually appealing and user-centric applications. I enjoy transforming ideas into tangible, useful products through persistence, collaboration, and a continuous eagerness to learn and improve. I thrive on meticulously investigating code line-by-line to debug, savoring the triumphant moments of overcoming challenges and bringing projects to life.
 
-[Resume](https://docs.google.com/document/d/1Wr1bObk32pCDblDPZD6LDrLnV8agWQC7ZSfqs1n4M5Q/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1Wr1bObk32pCDblDPZD6LDrLnV8agWQC7ZSfqs1n4M5Q/edit?usp=sharing) | [GitLab](https://gitlab.com/amypirro) | [GitHub](https://github.com/amypirro)
 
 ## Projects
 
